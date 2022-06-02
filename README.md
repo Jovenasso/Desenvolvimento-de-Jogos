@@ -1,4 +1,4 @@
-# Projeto Desenvolvimento de Jogos Digitais • The Anarchy
+# Desenvolvimento de Jogos Digitais • The Anarchy
 
 
 Participantes:
