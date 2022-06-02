@@ -1,5 +1,6 @@
 # Desenvolvimento de Jogos Digitais • The Anarchy
 
+![menu_logo](https://user-images.githubusercontent.com/80861112/171758854-e4c38a60-2e6a-41ab-b9f2-8ba66d160c03.png)
 
 Participantes:
 
