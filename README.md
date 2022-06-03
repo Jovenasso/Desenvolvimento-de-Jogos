@@ -4,15 +4,15 @@
 
 <p align="center">
     
-  Participantes:
+    Participantes:
 
-  Bruno Augusto Jovenasso             22.119.020-0
+    Bruno Augusto Jovenasso             22.119.020-0
 
-  Erik Fernando Mendes Silva          22.119.074-7
+    Erik Fernando Mendes Silva          22.119.074-7
 
-  Vanessa Gomes Favorito              22.119.009-3
+    Vanessa Gomes Favorito              22.119.009-3
 
-  Rafael Tocegui Compri               22.119.063-0
+    Rafael Tocegui Compri               22.119.063-0
   
 </p>
 
