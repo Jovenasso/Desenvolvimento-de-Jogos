@@ -4,6 +4,16 @@
     <img align="center" src="https://user-images.githubusercontent.com/80861112/171758854-e4c38a60-2e6a-41ab-b9f2-8ba66d160c03.png">
 </p>
 
+## Arquivos
+
+Os arquivos são Scripts, Prefabs e Sprites utilizados no jogo.
+
+Para o jogo completo, acesse o drive.
+
+https://1drv.ms/u/s!Ar5z5y0Or-GZjfAKOdCA2Qb-X2iu_g?e=leE7bX
+
+Na pasta Builds/TheAnarchy pode ser encontrado o executável do jogo.
+
 ## Participantes
 Bruno Augusto Jovenasso             22.119.020-0<br/>
 Erik Fernando Mendes Silva          22.119.074-7<br/>
